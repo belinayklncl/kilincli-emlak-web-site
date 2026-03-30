@@ -227,3 +227,8 @@ body {
   border-radius: 5px;
   cursor: pointer;
 }
+.menu a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
