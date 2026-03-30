@@ -14,7 +14,7 @@ body {
 }
 
 .menu {
-  position:fixed;
+
   display:flex;
   gap: 20px;
   z-index: 1001;
